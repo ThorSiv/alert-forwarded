@@ -1,0 +1,1 @@
+alertmanager告警信息，转发到飞书和telegram
